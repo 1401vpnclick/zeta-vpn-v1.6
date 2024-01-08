@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"هم اکنون نسخه کنونی از کار افتاده است!  تا ساعت دیگر در کانال ما اپدیت جدید برنامه را دانلود کنید ⚡️❤️","dismissable":false,"dismissTxt":"رد","okTxt":"بروزرسانی از تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
